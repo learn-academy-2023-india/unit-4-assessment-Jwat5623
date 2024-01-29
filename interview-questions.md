@@ -20,7 +20,8 @@ Differences
 2. Javascript uses React as a framework
 3. Ruby uses Rails as a framework
 
-Researched answer:
+Researched answer: Both JavaScript and Ruby are object-oriented programming languages. Both languages are dynamically typed. 
+Javascript uses braces {} for block statements. Ruby uses do and end for block statements.
 
 2. What does it mean to implement a TDD workflow?
 
